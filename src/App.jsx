@@ -465,8 +465,8 @@ const InteractiveBuildingMap = () => {
 
   return (
     <div style={containerStyle}>
-      <h1 style={headingStyle}>Plaza Trevi Interactive Map</h1>
-      <p style={subheadingStyle}>Click on any commercial space to see tenant information</p>
+      {/* <h1 style={headingStyle}>Plaza Trevi Interactive Map</h1>
+      <p style={subheadingStyle}>Click on any commercial space to see tenant information</p> */}
       
       <FloorSelector />
       
